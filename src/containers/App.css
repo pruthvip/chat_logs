@@ -1,0 +1,24 @@
+.app {
+}   
+
+.app__content {
+    width: 100%;
+    max-width: 500px;
+    background-color: #a76bf3;
+    margin: 10px auto;
+    padding: 16px;
+    max-height: 90vh;
+    height: 90vh;
+    overflow-y: scroll;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.display-t {
+    display: table;
+}
+
+.display-td {
+    display: table-cell;
+}
